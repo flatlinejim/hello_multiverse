@@ -1,2 +1,6 @@
 # hello_multiverse
-you told me to
+I'm new here.
+I like learning.
+Python
+
+
